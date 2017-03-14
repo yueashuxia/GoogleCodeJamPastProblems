@@ -1,4 +1,5 @@
-【A-Small（过不了A-large）】
+/*
+A-Small（过不了A-large）
 
 #define LOCAL
 #include<cstdio>
@@ -47,7 +48,9 @@ int main()
     return 0;
 }
 
-【A-Large】
+*/
+
+//能过A-Large的
 import java.io.*;  
 import java.math.*;  
 import java.util.*;  
