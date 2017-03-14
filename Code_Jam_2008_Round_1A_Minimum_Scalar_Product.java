@@ -1,5 +1,5 @@
 /*
-A-Small（过不了A-large）
+能过A-Small的C++代码（没有实现大数过不了A-large）
 
 #define LOCAL
 #include<cstdio>
